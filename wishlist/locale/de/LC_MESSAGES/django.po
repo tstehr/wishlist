@@ -122,7 +122,7 @@ msgstr "Du möchtest folgendes als erledigt markieren:"
 msgid ""
 "Bitte verrate mir noch deinen (Nick-) Namen. Ich werde ihn mir nur "
 "anschauen, wenn etwas schief läuft."
-msgstr "Bitte verrate mir noch deinen (Nick-) Namen. Ich werde ihn mir nur "
+msgstr "Bitte verrate uns noch deinen (Nick-) Namen. Wir werden ihn uns nur "
 "anschauen, wenn etwas schief läuft."
 
 #: wishlist/templates/wishlist/nick_entry.html:16
